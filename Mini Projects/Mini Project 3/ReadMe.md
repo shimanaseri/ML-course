@@ -1,8 +1,7 @@
 # Mini Project 3- Learning Objectives
 
-## Overview
-
 This repository contains solutions to a series of exercises designed to improve understanding of advanced topics in machine learning, specifically focusing on Support Vector Machines (SVM) and neural networks.
+
 ## What You'll Learn
 
 ### Question 1
