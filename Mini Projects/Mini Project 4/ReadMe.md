@@ -53,6 +53,6 @@ The Wumpus World is a classic AI problem involving a 4x4 grid with a goal of fin
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
