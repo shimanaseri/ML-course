@@ -24,3 +24,9 @@ This repository contains solutions to exercises designed to enhance comprehensio
 ### Exercise 6: Vectorization vs. Loops
 - **Learning:** Comparing the efficiency of vectorized code versus loops in machine learning algorithms.
 
+
+## License
+
+This project is licensed under the [MIT License](LICENSE)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
