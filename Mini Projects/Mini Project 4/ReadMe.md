@@ -51,3 +51,8 @@ The Wumpus World is a classic AI problem involving a 4x4 grid with a goal of fin
 
    e. **Model Checkpoints and Videos:** Save model checkpoints and download them to your system. Record and share videos of the agent’s performance using these models.
 
+## License
+
+This project is licensed under the MIT License.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
