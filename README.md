@@ -11,4 +11,6 @@ This course repository is open-source and available under the [MIT License](LICE
 ## Contact
 
 If you have questions or need assistance:
-- Shima Naseri[@shimanaseri](https://github.com/shimanaseri) - shima.s.naseri@gmail.com
+
+[Send an Email]( shima.s.naseri@gmail.com)
+
