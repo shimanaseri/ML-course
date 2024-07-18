@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1orKdc8CQiNpdYTEGEpfmumM03-PmPjib
 """
 
+
 import numpy as np
 
 # Function to generate a random triangular matrix and check if it's non-singular
