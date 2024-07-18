@@ -51,6 +51,6 @@ This repository contains solutions to Mini Project 2, which focuses on advanced 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
