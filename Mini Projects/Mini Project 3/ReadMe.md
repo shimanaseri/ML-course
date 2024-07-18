@@ -44,6 +44,6 @@ This repository contains solutions to a series of exercises designed to improve 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
