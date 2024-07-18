@@ -9,8 +9,7 @@ This repository contains solutions to Mini Project 2, which focuses on advanced 
 ### Question 1: Activation Functions and Neural Networks
 - **Learning:**  Understand the impact of different activation functions (Sigmoid, ReLU) on a binary classification problem.
 - **Skills:**  Implementing and analyzing the performance of activation functions in neural networks.
-
-<a href="https://github.com/shimanaseri/ML-coarse/blob/main/Mini%20Projects/Mini%20Project%202/q1.ipynb"><strong>Q1 code »</a>
+- <a href="https://github.com/shimanaseri/ML-coarse/blob/main/Mini%20Projects/Mini%20Project%202/q1.ipynb"><strong>Q1 code »</a>
 
 ### Question 2: Bearing Fault Detection
 
