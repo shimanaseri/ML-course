@@ -47,4 +47,8 @@ This repository contains solutions to a mini project aimed at improving understa
 
 - <a href="https://github.com/shimanaseri/ML-coarse/blob/main/Mini%20Projects/Mini%20Project%201/q3.ipynb"><strong>Q3 code »</a>
 
+## License
+
+This project is licensed under the MIT License.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
