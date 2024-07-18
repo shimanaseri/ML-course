@@ -25,4 +25,8 @@ In these mini-projects, you will gain insight into the various facets of the Mac
 
  <a href="https://github.com/shimanaseri/ML-coarse/tree/main/Mini%20Projects/Mini%20Project%204"><strong>Explore the docs »</strong></a>
 
+## License
+
+This project is licensed under the MIT License.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
