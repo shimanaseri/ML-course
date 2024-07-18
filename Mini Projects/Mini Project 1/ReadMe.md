@@ -49,6 +49,6 @@ This repository contains solutions to a mini project aimed at improving understa
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
