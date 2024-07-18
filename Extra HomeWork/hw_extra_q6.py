@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1HF3-ZK3uzywZwTlD4XYiOtNNkRv4bizt
 """
 
+
 import numpy as np
 
 m, n = 20, 10
