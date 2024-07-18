@@ -27,6 +27,6 @@ In these mini-projects, you will gain insight into the various facets of the Mac
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
