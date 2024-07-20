@@ -8,3 +8,4 @@ mahotas
 numpy
 opencv-python
 pandas
+rarfile
