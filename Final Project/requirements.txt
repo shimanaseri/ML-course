@@ -1,0 +1,10 @@
+scipy
+scikit-image
+cupy-cuda100
+jax[cuda12_pip] @ https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+jax
+jaxlib
+mahotas
+numpy
+opencv-python
+pandas
